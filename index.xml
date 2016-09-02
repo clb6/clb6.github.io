@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CLB6</title>
-    <link>http://clb6.github.io/</link>
+    <link>https://clb6.github.io/</link>
     <description>Recent content on CLB6</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>hirehwang@gmail.com (Michael Hwang)</managingEditor>
     <webMaster>hirehwang@gmail.com (Michael Hwang)</webMaster>
     <lastBuildDate>Wed, 31 Aug 2016 21:27:30 -0400</lastBuildDate>
-    <atom:link href="http://clb6.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://clb6.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Project</title>
-      <link>http://clb6.github.io/node_project/</link>
+      <link>https://clb6.github.io/node_project/</link>
       <pubDate>Wed, 31 Aug 2016 21:27:30 -0400</pubDate>
       <author>hirehwang@gmail.com (Michael Hwang)</author>
-      <guid>http://clb6.github.io/node_project/</guid>
+      <guid>https://clb6.github.io/node_project/</guid>
       <description>&lt;p&gt;The projects of CLB6 provide functionality in:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -32,10 +32,10 @@
     
     <item>
       <title>Jarvis</title>
-      <link>http://clb6.github.io/project/jarvis</link>
+      <link>https://clb6.github.io/project/jarvis</link>
       <pubDate>Sat, 27 Aug 2016 01:27:30 -0400</pubDate>
       <author>hirehwang@gmail.com (Michael Hwang)</author>
-      <guid>http://clb6.github.io/project/jarvis</guid>
+      <guid>https://clb6.github.io/project/jarvis</guid>
       <description>
 
 &lt;h4 id=&#34;purpose:d735bf7ed46946d687eb298a5b7538a8&#34;&gt;Purpose&lt;/h4&gt;
@@ -54,13 +54,13 @@
     
     <item>
       <title>Home</title>
-      <link>http://clb6.github.io/node_home/</link>
+      <link>https://clb6.github.io/node_home/</link>
       <pubDate>Thu, 18 Aug 2016 21:59:29 -0400</pubDate>
       <author>hirehwang@gmail.com (Michael Hwang)</author>
-      <guid>http://clb6.github.io/node_home/</guid>
+      <guid>https://clb6.github.io/node_home/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;http://clb6.github.io/img/clb6_logo.png&#34; alt=&#34;CLB6 logo&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://clb6.github.io/img/clb6_logo.png&#34; alt=&#34;CLB6 logo&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;welcome-to-clb6:3d71deaa185581268ff770ac2c9766eb&#34;&gt;Welcome to CLB6!&lt;/h2&gt;
 
