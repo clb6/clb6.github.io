@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CLB6</title>
+    <link>http://clb6.github.io/</link>
+    <description>Recent content on CLB6</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>hirehwang@gmail.com (Michael Hwang)</managingEditor>
+    <webMaster>hirehwang@gmail.com (Michael Hwang)</webMaster>
+    <lastBuildDate>Wed, 31 Aug 2016 21:27:30 -0400</lastBuildDate>
+    <atom:link href="http://clb6.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Project</title>
+      <link>http://clb6.github.io/node_project/</link>
+      <pubDate>Wed, 31 Aug 2016 21:27:30 -0400</pubDate>
+      <author>hirehwang@gmail.com (Michael Hwang)</author>
+      <guid>http://clb6.github.io/node_project/</guid>
+      <description>&lt;p&gt;The projects of CLB6 provide functionality in:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;data collection&lt;/li&gt;
+&lt;li&gt;data enrichment&lt;/li&gt;
+&lt;li&gt;data management&lt;/li&gt;
+&lt;li&gt;analytics&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;They are designed to be composed together to provide a cohesive experience.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jarvis</title>
+      <link>http://clb6.github.io/project/jarvis</link>
+      <pubDate>Sat, 27 Aug 2016 01:27:30 -0400</pubDate>
+      <author>hirehwang@gmail.com (Michael Hwang)</author>
+      <guid>http://clb6.github.io/project/jarvis</guid>
+      <description>
+
+&lt;h4 id=&#34;purpose:d735bf7ed46946d687eb298a5b7538a8&#34;&gt;Purpose&lt;/h4&gt;
+
+&lt;p&gt;Jarvis enriches your data by associating your data to personalized events and reflections.  The events and reflections provide metadata and more context to help describe the data.  This is part of the curation process.  Your data takes on a deeper meaning because you are able to make more links to the data.&lt;/p&gt;
+
+&lt;h4 id=&#34;repositories:d735bf7ed46946d687eb298a5b7538a8&#34;&gt;Repositories&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/clb6/jarvis&#34;&gt;jarvis&lt;/a&gt; - metapackage used to setup and to install jarvis-api&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/clb6/jarvis-api&#34;&gt;jarvis-api&lt;/a&gt; - core API used to manage events, logs, and tags&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/clb6/jarvis-cli&#34;&gt;jarvis-cli&lt;/a&gt; - command-line tool used to interface with the core API&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://clb6.github.io/node_home/</link>
+      <pubDate>Thu, 18 Aug 2016 21:59:29 -0400</pubDate>
+      <author>hirehwang@gmail.com (Michael Hwang)</author>
+      <guid>http://clb6.github.io/node_home/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://clb6.github.io/img/clb6_logo.png&#34; alt=&#34;CLB6 logo&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;welcome-to-clb6:3d71deaa185581268ff770ac2c9766eb&#34;&gt;Welcome to CLB6!&lt;/h2&gt;
+
+&lt;p&gt;CLB6 is a community dedicated to building an incredible collection of open source software tools and projects for the purpose of managing your personal information and curating your knowledge.  The goal is to maximize the utility of all the data that you consume and produce by providing the technical means to take control of your data and to extract insights.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Own your data, curate yourself&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

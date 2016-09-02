@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://clb6.github.io/</loc>
+    <lastmod>2016-08-31T21:27:30-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://clb6.github.io/node_project/</loc>
+    <lastmod>2016-08-31T21:27:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://clb6.github.io/project/jarvis</loc>
+    <lastmod>2016-08-27T01:27:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://clb6.github.io/node_home/</loc>
+    <lastmod>2016-08-18T21:59:29-04:00</lastmod>
+  </url>
+  
+</urlset>

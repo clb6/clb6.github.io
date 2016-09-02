@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on CLB6</title>
+    <link>http://clb6.github.io/project/</link>
+    <description>Recent content in Projects on CLB6</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>hirehwang@gmail.com (Michael Hwang)</managingEditor>
+    <webMaster>hirehwang@gmail.com (Michael Hwang)</webMaster>
+    <lastBuildDate>Sat, 27 Aug 2016 01:27:30 -0400</lastBuildDate>
+    <atom:link href="http://clb6.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Jarvis</title>
+      <link>http://clb6.github.io/project/jarvis</link>
+      <pubDate>Sat, 27 Aug 2016 01:27:30 -0400</pubDate>
+      <author>hirehwang@gmail.com (Michael Hwang)</author>
+      <guid>http://clb6.github.io/project/jarvis</guid>
+      <description>
+
+&lt;h4 id=&#34;purpose:d735bf7ed46946d687eb298a5b7538a8&#34;&gt;Purpose&lt;/h4&gt;
+
+&lt;p&gt;Jarvis enriches your data by associating your data to personalized events and reflections.  The events and reflections provide metadata and more context to help describe the data.  This is part of the curation process.  Your data takes on a deeper meaning because you are able to make more links to the data.&lt;/p&gt;
+
+&lt;h4 id=&#34;repositories:d735bf7ed46946d687eb298a5b7538a8&#34;&gt;Repositories&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/clb6/jarvis&#34;&gt;jarvis&lt;/a&gt; - metapackage used to setup and to install jarvis-api&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/clb6/jarvis-api&#34;&gt;jarvis-api&lt;/a&gt; - core API used to manage events, logs, and tags&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/clb6/jarvis-cli&#34;&gt;jarvis-cli&lt;/a&gt; - command-line tool used to interface with the core API&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
