@@ -1,7 +1,0 @@
-<section id="main-content" class="container main_content homepage">
-  <!-- This is the best solution for now.. -->
-  <!-- https://github.com/spf13/hugo/issues/330 -->
-  {{ range where .Data.Pages "Title" "Home" }}
-    {{ .Content }}
-  {{ end }}
-</section>

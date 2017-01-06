@@ -1,0 +1,8 @@
+site_name: CLB6
+
+theme: yeti
+
+pages:
+  - 'Home': 'index.md'
+  - 'Projects':
+    - 'Jarvis': 'projects/jarvis.md'
