@@ -1,0 +1,34 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to CLB6!\n\n\nCLB6 is a community dedicated to building an incredible collection of open source software tools and projects for the purpose of managing your personal information and curating your knowledge.  The goal is to maximize the utility of all the data that you consume and produce by providing the technical means to take control of your data and to extract insights.\n\n\nOwn your data, curate yourself\n\n\nFunctionality\n\n\nThe projects of CLB6 provide functionality in:\n\n\n\n\ndata collection\n\n\ndata enrichment\n\n\ndata management\n\n\nanalytics\n\n\n\n\nThey are designed to be composed together to provide a cohesive experience.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-clb6",
+            "text": "CLB6 is a community dedicated to building an incredible collection of open source software tools and projects for the purpose of managing your personal information and curating your knowledge.  The goal is to maximize the utility of all the data that you consume and produce by providing the technical means to take control of your data and to extract insights.  Own your data, curate yourself",
+            "title": "Welcome to CLB6!"
+        },
+        {
+            "location": "/#functionality",
+            "text": "The projects of CLB6 provide functionality in:   data collection  data enrichment  data management  analytics   They are designed to be composed together to provide a cohesive experience.",
+            "title": "Functionality"
+        },
+        {
+            "location": "/projects/jarvis/",
+            "text": "Jarvis\n\n\nJarvis enriches your data by associating your data to personalized events and reflections.  The events and reflections provide metadata and more context to help describe the data.  This is part of the curation process.  Your data takes on a deeper meaning because you are able to make more links to the data.\n\n\nRepositories\n\n\n\n\njarvis\n - metapackage used to setup and to install jarvis-api\n\n\njarvis-api\n - core API used to manage events, logs, and tags\n\n\njarvis-cli\n - command-line tool used to interface with the core API",
+            "title": "Jarvis"
+        },
+        {
+            "location": "/projects/jarvis/#jarvis",
+            "text": "Jarvis enriches your data by associating your data to personalized events and reflections.  The events and reflections provide metadata and more context to help describe the data.  This is part of the curation process.  Your data takes on a deeper meaning because you are able to make more links to the data.",
+            "title": "Jarvis"
+        },
+        {
+            "location": "/projects/jarvis/#repositories",
+            "text": "jarvis  - metapackage used to setup and to install jarvis-api  jarvis-api  - core API used to manage events, logs, and tags  jarvis-cli  - command-line tool used to interface with the core API",
+            "title": "Repositories"
+        }
+    ]
+}
