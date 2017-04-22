@@ -1,6 +1,6 @@
 site_name: CLB6
 
-theme: yeti
+theme: material
 
 pages:
   - 'Home': 'index.md'
